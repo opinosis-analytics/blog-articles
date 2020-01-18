@@ -1,4 +1,4 @@
-# Blog Posts 
+# Articles
 
 
 # Healthcare
