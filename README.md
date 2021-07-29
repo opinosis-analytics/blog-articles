@@ -21,8 +21,8 @@
 # Strategy / Project Management
 - [How To Prevent ML Failure](https://www.opinosis-analytics.com/blog/post-development-testing/#.YNns1DZKhhE)
 - [Mistakes to Avoid When Buying AI](https://www.opinosis-analytics.com/blog/buying-ai-solutions/#.YNnthzZKhhE)
-
-
+- [How to Generate Quality Training Data For Your Machine Learning Projects](https://www.opinosis-analytics.com/blog/machine-learning-training-data/#.YQMLiRNKhhF)
+- [3 Painful Mistakes To Avoid When Buying AI Solutions](https://www.opinosis-analytics.com/blog/buying-ai-solutions/#.YQML-xNKhhE)
 
 
 # AI Foundations  
