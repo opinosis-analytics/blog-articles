@@ -31,4 +31,5 @@
 - [What is Machine Learning Model Deployment](https://www.opinosis-analytics.com/ai-glossary/machine-learning-model-deployment/)
 - [What is Term Frequency](https://www.opinosis-analytics.com/knowledge-base/term-frequency-explained/)
 - [What is Document Frequency](https://www.opinosis-analytics.com/ai-glossary/document-frequency/)
+- [What is Precisiong and Recall in Machine Learning](https://www.opinosis-analytics.com/ai-glossary/precision-and-recall-machine-learning)
 
