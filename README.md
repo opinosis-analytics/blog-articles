@@ -34,3 +34,9 @@
 - [What is Labeled Data for Machine Learning](https://www.opinosis-analytics.com/ai-glossary/what-is-labeled-data-when-it-comes-to-ml/)
 - [What is Precision and Recall in Machine Learning](https://www.opinosis-analytics.com/ai-glossary/precision-and-recall-machine-learning)
 
+
+# Other Resources
+
+- [Machine Learning Consulting FAQ](https://www.opinosis-analytics.com/machine-learning-consulting/)
+- [Custom AI Solution Development](https://www.opinosis-analytics.com/services/custom-ai-solutions/)
+
